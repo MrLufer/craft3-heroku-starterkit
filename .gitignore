@@ -8,7 +8,6 @@
 /vendor
 
 # ASSETS
-/web/assets/*
 /web/cpresources/*
 /web/cache/
 /web/js/*
